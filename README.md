@@ -3,4 +3,4 @@ first proj
 # About me
 ## Otaku
 ### Love interesting things
-E=mc^2^
+X^2^
