@@ -3,4 +3,4 @@ first proj
 # About me
 ## Otaku
 ### Love interesting things
-X^2^
+H~2~O
